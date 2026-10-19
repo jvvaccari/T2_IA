@@ -15,3 +15,9 @@ Na raiz do projeto:
 ```powershell
 python q1\main.py
 ```
+
+Também é possível executar o pacote diretamente:
+
+```powershell
+python -m q1.main
+```
